@@ -11,7 +11,7 @@ Our group applies **Machine Learning algorithms and techniques** learned in clas
 - Deliver a complete project with **code, slides, and report in English**.
 
 ## 📂 Project Structure
-- `Notebook/Stock_META_Thien.ipynb` → Main Jupyter notebook with source code.  
+- `Notebook/DS66A_Group_6_LendingClub.ipynb` → Main Jupyter notebook with source code.  
 - `Report/` → Final report (LaTeX or Word format).  
 - `Slides/` → Presentation slides (LaTeX slides via Overleaf or PowerPoint template).  
 - `README.md` → Project documentation.  
